@@ -1,6 +1,8 @@
 * {
     background-color: black;
+    text-align: center;
 }
+
 
 header h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -8,4 +10,15 @@ header h1 {
     font-size: 50px;
     color: white;
     text-align: center;
+}
+
+#topLink {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+#heroVideo {
+    object-fit: contain;
+       
 }
