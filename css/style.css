@@ -1,6 +1,7 @@
 * {
     background-color: black;
     text-align: center;
+    position: relative;
 }
 
 
@@ -27,13 +28,18 @@ p {
 }
 
 
-#topLink {
+#downloadLink {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+    padding: 10px;
 }
 
 #heroVideo {
     object-fit: contain;
        
+}
+
+img {
+    padding: 10px;
 }
