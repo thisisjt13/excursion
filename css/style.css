@@ -43,3 +43,8 @@ p {
 img {
     padding: 10px;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+}
